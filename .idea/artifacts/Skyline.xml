@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Skyline">
+    <output-path>$PROJECT_DIR$/out/Skyline</output-path>
+    <root id="archive" name="Skyline.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
