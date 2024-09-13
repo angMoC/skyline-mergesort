@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Skyline
+Class-Path: C:\Users\angel\Desktop\CS50\SkylineMergesort\src
+

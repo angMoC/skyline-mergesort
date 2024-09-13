@@ -1,0 +1,12 @@
+# Ignorar carpetas generadas por IntelliJ
+.idea/
+*.iml
+out/
+
+# Ignorar archivos compilados
+*.class
+*.jar
+
+# Archivos de sistema comunes
+.DS_Store
+Thumbs.db
